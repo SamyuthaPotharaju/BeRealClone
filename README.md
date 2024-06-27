@@ -1,34 +1,18 @@
-# Project 5 - BeReal Clone
-
-Submitted by: Samyutha Potharaju
+# BeReal Clone
 
 BeReal Clone is an app that replicates the functionality of the app BeReal.
 
-Time spent: 4 hours spent in total
+## Features
 
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] User can register a new account
-- [x] User can log in with newly created account
-- [x] App has a feed of posts when user logs in
-- [x] User can upload a new post which takes in a picture from photo library and a caption	
+- User can register a new account
+- User can log in with newly created account
+- App has a feed of posts when user logs in
+- User can upload a new post which takes in a picture from photo library and a caption	
  
-The following **optional** features are implemented:
 
-- [ ] Users can pull to refresh their feed and see a loading indicator
-- [ ] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [ ] Users can see location and time of photo upload in the feed	
-- [ ] User is able to logout
-- [ ] User stays logged in when app is closed and open again	
-
-
-The following **additional** features are implemented:
-
-- [x] List anything else that you can get done to improve the app functionality!
-
-To improve app functionality I would allow users to stay logged in when they exit the app, and to use the camera app to upload a picture.
+Improvements:
+- allow users to stay logged in when they exit the app
+- use the camera app to upload a picture
 
 ## Video Walkthrough
 
@@ -39,12 +23,6 @@ Here's a walkthrough of implemented user stories:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
 
-## Notes
-
-Describe any challenges encountered while building the app:
-- getting the server to link to the app
-- allowing multiple users to have an account
-- replicating the UI of BeReal.
 
 ## License
 
